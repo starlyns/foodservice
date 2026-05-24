@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Provender B2B",
+  "description": "Premium product activation platform for food suppliers and manufacturers to drive product movement and distributor visibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
